@@ -18,7 +18,7 @@ This is a Netflix clone website that replicates the popular streaming platform's
 - JavaScript
 - HTML5
 - CSS3
-- Netflix API
+- TMDB API
 
 ## Installation
 
@@ -27,8 +27,7 @@ To install and run the Netflix clone website locally, follow these steps:
 1. Clone the repository:
 
    ```
-[   git clone https://github.com//netflix-clone.git
-](https://github.com/Karthikeyan-018/netflix-clone018.git)   ```
+[   git clone https://github.com/Karthikeyan-018/netflix-clone018.git]   ```
 
 2. Navigate to the project directory:
 
